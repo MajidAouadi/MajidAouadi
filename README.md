@@ -2,7 +2,7 @@
 - 👀 I’m interested in data, storytelling and objectivity. 
 - 🌱 I’m currently learning HTML, CSS, Javascript, Python, R and Power BI. 
 - 💞️ I’m looking to collaborate on - let me know! 
-- 📫 How to reach me - LinkedIn and E-mail. 
+- 📫 How to reach me - a hello is enough. 
 
 <!---
 MajidAouadi/MajidAouadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
